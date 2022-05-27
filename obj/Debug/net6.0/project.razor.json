@@ -16329,6 +16329,11 @@
   "RootNamespace": "PlayerWeb",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\sun\\source\\repos\\PlayerWeb\\Views\\Account\\AccessDenied.cshtml",
+      "TargetPath": "Views\\Account\\AccessDenied.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\sun\\source\\repos\\PlayerWeb\\Views\\Role\\Index.cshtml",
       "TargetPath": "Views\\Role\\Index.cshtml",
       "FileKind": "mvc"
@@ -16386,6 +16391,11 @@
     {
       "FilePath": "c:\\Users\\sun\\source\\repos\\PlayerWeb\\Views\\Bot\\Edit.cshtml",
       "TargetPath": "Views\\Bot\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\sun\\source\\repos\\PlayerWeb\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
       "FileKind": "mvc"
     },
     {

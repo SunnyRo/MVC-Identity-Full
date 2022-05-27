@@ -12,6 +12,8 @@
 
 ### Added User (Add,Remove user from a role)
 
+### Added AccessDenied for Privacy page (only Admin role can see)
+
 # **How to run**
 
 ### Correct the ConnectionStrings in appsetting.json to match with your database server
