@@ -27,7 +27,7 @@ namespace Identity.TagHelpers
                 foreach (var user in userManager.Users)
                 {
                     if (user != null && await userManager.IsInRoleAsync(user, role.Name))
-                        names.Add(user.FirstName);
+                        names.Add(user.Email);
                 }
             }
             output.Content.SetContent(names.Count == 0 ? "No Users" : string.Join(", ", names));
