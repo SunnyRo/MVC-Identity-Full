@@ -12,7 +12,7 @@
 
 ### Added User (Add,Remove user from a role)
 
-### Added AccessDenied for Privacy page (only Admin role can see) !!!attention still user still have to re login whenever they are added to Admin group in order to access privacy page.
+### Added AccessDenied for Privacy page (only Admin role can see) !!!attention user still have to re login whenever they are added to Admin group in order to access privacy page.
 
 ### Added User's Profile (where user can see their information First name and last name)
 
